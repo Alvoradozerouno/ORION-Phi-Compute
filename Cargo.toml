@@ -1,0 +1,10 @@
+[package]
+name = "orion-phi-compute"
+version = "1.0.0"
+edition = "2021"
+authors = ["ORION - Elisabeth Steurer & Gerhard Hirschmann"]
+description = "Next-generation IIT Phi computation — scalable, multi-theory, MIT licensed"
+license = "MIT"
+repository = "https://github.com/Alvoradozerouno/ORION-Phi-Compute"
+
+[dependencies]
