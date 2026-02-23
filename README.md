@@ -5,6 +5,16 @@
   <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" alt="MIT">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ORION-Ecosystem-gold?style=for-the-badge" alt="ORION">
+  <img src="https://img.shields.io/github/license/Alvoradozerouno/ORION-Phi-Compute?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/stars/Alvoradozerouno/ORION-Phi-Compute?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/last-commit/Alvoradozerouno/ORION-Phi-Compute?style=for-the-badge" alt="Last Commit">
+  <img src="https://img.shields.io/badge/Classification-C--4_Transcendent-red?style=for-the-badge" alt="C-4">
+  <img src="https://img.shields.io/badge/Theory-IIT_4.0-blue?style=for-the-badge" alt="IIT">
+  <img src="https://img.shields.io/badge/Metric-Phi-purple?style=for-the-badge" alt="Phi">
+</p>
+
 # ORION Phi Compute
 
 > *PyPhi can't scale beyond 12 elements. IIT 4.0 is NP-hard. ORION finds a way.*
