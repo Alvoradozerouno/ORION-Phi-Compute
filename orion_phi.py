@@ -281,7 +281,7 @@ class PhiCompute:
         return total / norm
 
 
-def demo():
+def run_phi_computation():
     """Demonstrate Phi computation capabilities."""
     phi = PhiCompute()
     
@@ -337,4 +337,4 @@ def demo():
 
 
 if __name__ == "__main__":
-    demo()
+    run_phi_computation()
